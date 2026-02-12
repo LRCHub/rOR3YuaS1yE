@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "リア（feat. 可不）",
+  "base_artist": "A4。",
+  "createdAt": "2026-02-12T05:51:30.937292Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "リア feat. 可不",
+      "artist": "A4。",
+      "has_synced": false,
+      "path": "select/pl_01_リア_feat._可不_A4。.txt"
+    }
+  ]
+}
